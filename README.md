@@ -1,2 +1,8 @@
-# Academic-and-Engagement-activities-
-This analysis is about the academic performance and engagement metrics (Forum posts, likes and replies) of 200 students that were enrolled on different days into ten (10) different courses and assigned individual topics.
+# Academic and engagement analysis 
+
+### Analyzing academic and engagement data
+
+This analysis aims to analyze student engagement, performances and completion trends. By analyzing various aspect of the academic and engagement data, I seek to identify key factors influencing student successs, improve course effectiveness and enhance student learning experience.
+
+### Data Sources
+
